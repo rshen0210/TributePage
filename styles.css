@@ -1,0 +1,50 @@
+h1, p, h2, figcaption {
+    text-align:center;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    background-color:#ffddaa
+}
+img {
+    display:block;
+    padding:50px 0;
+    width:80%;
+}
+#image {
+    max-width: 100%;
+    margin:0 auto;
+    height:auto;
+}
+#img-div {
+    background-color:antiquewhite;
+    width:85%;
+    margin:30px auto;
+    padding:10px
+}
+#tribute-info {
+    max-width:60%;
+    margin:0 auto;
+}
+li {
+    margin:45px 0;
+    width:600px;
+    font-size:15px;
+    font-family: monospace;
+}
+.grouped-title {
+    background-color:blanchedalmond;
+    width:850px;
+    display:block;
+    margin:0 auto;
+}
+#titlejump {
+    background-color: grey;
+    margin:20px;
+    height:80px;
+    border-radius: 15px;
+}
+footer {
+    text-align:center;
+    background-color:grey;
+}
